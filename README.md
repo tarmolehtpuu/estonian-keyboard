@@ -51,6 +51,3 @@ approach that just uses [xmodmap](https://www.autohotkey.com) (*nix) or [Autohot
    - Press `Win + R`, type `shell:startup`, press Enter
    - Create a shortcut to `estonian-keys.ahk` in the startup folder
 
-## License
-
-Public Domain
