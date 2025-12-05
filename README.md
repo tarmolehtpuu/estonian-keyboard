@@ -13,15 +13,15 @@ approach that just uses [xmodmap](https://www.autohotkey.com) (*nix) or [Autohot
 
 ## Estonian Characters
 
-| Characters | Description        | Key mapping                                                                               |
-|-----------|--------------------|------------------------------------------------------------------------------------------|
-| —         | Caps Lock key      | **Caps Lock** → Control                                                                  |
-| **ä, Ä**  | a with diaeresis   | Left Win / Left Command + **a** → ä; Left Win / Left Command + **Shift + A** → Ä         |
-| **ü, Ü**  | u with diaeresis   | Left Win / Left Command + **u** → ü; Left Win / Left Command + **Shift + U** → Ü         |
-| **õ, Õ**  | o with tilde       | Left Win / Left Command + **o** → õ; Left Win / Left Command + **Shift + O** → Õ         |
-| **ö, Ö**  | o with diaeresis   | Left Win / Left Command + **0** → ö; Left Win / Left Command + **Shift + )** → Ö         |
-| **š, Š**  | s with caron       | Left Win / Left Command + **s** → š; Left Win / Left Command + **Shift + S** → Š         |
-| **ž, Ž**  | z with caron       | Left Win / Left Command + **z** → ž; Left Win / Left Command + **Shift + Z** → Ž         |
+| Characters | Description        | Key mapping                                                              |
+|-----------|--------------------|---------------------------------------------------------------------------|
+| —         | Caps Lock key      | **Caps Lock** → Control                                                   |
+| **ä, Ä**  | a with diaeresis   | Left Win / Left Command + **a** → ä; Left Win/Command + **Shift + A** → Ä |
+| **ü, Ü**  | u with diaeresis   | Left Win / Left Command + **u** → ü; Left Win/Command + **Shift + U** → Ü |
+| **õ, Õ**  | o with tilde       | Left Win / Left Command + **o** → õ; Left Win/Command + **Shift + O** → Õ |
+| **ö, Ö**  | o with diaeresis   | Left Win / Left Command + **0** → ö; Left Win/Command + **Shift + )** → Ö |
+| **š, Š**  | s with caron       | Left Win / Left Command + **s** → š; Left Win/Command + **Shift + S** → Š |
+| **ž, Ž**  | z with caron       | Left Win / Left Command + **z** → ž; Left Win/Command + **Shift + Z** → Ž |
 
 
 ## Linux Setup (xmodmap)
