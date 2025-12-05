@@ -1,6 +1,6 @@
 # Estonian Keyboard Layout
 
-Adds estonian keys to any keyboard layout (most likely en-us for best programming experience). This is a very lightweight
+Adds Estonian keys to any keyboard layout (most likely en-us for best programming experience). This is a very lightweight
 approach that just uses [xmodmap](https://www.autohotkey.com) (*nix) or [Autohotkey](https://www.autohotkey.com) (win).
 
 ## Files
