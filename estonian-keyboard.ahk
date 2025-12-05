@@ -7,6 +7,8 @@
 
 #Requires AutoHotkey v2.0
 
+A_IconTip := "AutoHotkey: Estonian Keyboard"
+
 CapsLock::Ctrl
 
 <#a::Send "ä"
